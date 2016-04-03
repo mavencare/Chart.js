@@ -4,7 +4,7 @@
   "homepage": "https://github.com/nnnick/Chart.js",
   "author": "nnnick",
   "main": [
-    "Chart.js"
+    "Chart-min.js"
   ],
   "ignore": [
     "**/*",
